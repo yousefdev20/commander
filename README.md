@@ -1,3 +1,6 @@
+### MAF Commander
+In place of the SAM CLI, MAF commander offers a number of capabilities. Maf is (model and function) is an alternate option.
+
 ### Installation
 #### Mac intel chip
 ```bash
